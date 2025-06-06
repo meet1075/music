@@ -1,7 +1,11 @@
+import HeroSection from "@/components/HeroSection";
 import Image from "next/image";
 
 export default function Home() {
   return (
-   <h3 className="text-3xl text-center ">hello</h3>
+    <main className="min-h-screen bg-black/[0.96] antialised bg-grid-white/[0.02]">
+      <h1 className="text-2xl text-center ">hello</h1>
+      <HeroSection />
+    </main>
   );
 }
