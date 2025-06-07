@@ -11,6 +11,7 @@
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.16.0",
+    "mini-svg-data-uri": "^1.4.4",
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
